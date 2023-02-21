@@ -1,0 +1,13 @@
+
+.card-body{
+    background-color: lightslategray;
+
+}
+.card-footer{
+    background-color: rgb(108, 88, 126);
+    color: rgb(36, 11, 16);
+}
+span {
+    color: rgb(224, 13, 13);
+    font-weight: bold;
+}
